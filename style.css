@@ -22,6 +22,7 @@ header {
 
 .links ul {
   display: flex;
+  text-decoration: none;
   gap: 30px;
   align-items: center;
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -30,6 +31,7 @@ header {
 header .links a {
   color: #333;
 }
+
 
 .tagline {
   max-width: 500px;
